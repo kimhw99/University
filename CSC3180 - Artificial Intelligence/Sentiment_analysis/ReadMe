@@ -11,3 +11,6 @@ https://www.kaggle.com/datasets/kazanova/sentiment140
 
 With Code Stolen From:
 https://towardsdatascience.com/text-classification-with-bert-in-pytorch-887965e5820f
+
+Model works reasonably well when the input text explicitly expresses an opinion
+Is limited when the opinion is not so clear (i.e. sarcasm / hidden meanings)
