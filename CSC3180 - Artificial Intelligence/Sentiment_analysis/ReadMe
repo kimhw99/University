@@ -1,0 +1,13 @@
+Sentiment Analysis using BERT Classifier
+
+BERT Transformers
+https://huggingface.co/docs/transformers/v4.28.0/en/model_doc/bert#transformers.BertForMaskedLM
+
+BERT base model (cased)
+https://huggingface.co/bert-base-cased
+
+Trained on Sentiment140 Dataset
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
+With Code Stolen From:
+https://towardsdatascience.com/text-classification-with-bert-in-pytorch-887965e5820f
