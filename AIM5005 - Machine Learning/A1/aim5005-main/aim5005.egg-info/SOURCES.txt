@@ -1,0 +1,16 @@
+README.md
+setup.py
+aim5005/__init__.py
+aim5005/evaluation.py
+aim5005/features.py
+aim5005/linear_regression.py
+aim5005/prep.py
+aim5005/test.py
+aim5005.egg-info/PKG-INFO
+aim5005.egg-info/SOURCES.txt
+aim5005.egg-info/dependency_links.txt
+aim5005.egg-info/not-zip-safe
+aim5005.egg-info/requires.txt
+aim5005.egg-info/top_level.txt
+tests/test_features.py
+tests/test_linear_regression.py
